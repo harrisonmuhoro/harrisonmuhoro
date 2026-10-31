@@ -45,17 +45,17 @@ I am particularly interested in **business and enterprise-oriented software** wh
 
 | Area | Examples |
 |---|---|
-| 🏥 **Healthcare** | Hospital management, EMR, pharmacy, laboratory, billing, queues, inventory |
-| 🏨 **Hospitality** | Reservations, front desk, housekeeping, restaurant POS, finance, inventory |
-| 🎓 **Education** | Student workflows, industrial attachment, digital logbooks, evaluations |
-| 💼 **Business Systems** | POS, administration, workflow automation, reporting, dashboards |
-| 💳 **Financial Workflows** | Billing, payments, reconciliation, financial records, audit trails |
+| Healthcare | Hospital management, EMR, pharmacy, laboratory, billing, queues, inventory |
+| Hospitality | Reservations, front desk, housekeeping, restaurant POS, finance, inventory |
+| Education | Student workflows, industrial attachment, digital logbooks, evaluations |
+| Business Systems | POS, administration, workflow automation, reporting, dashboards |
+| Financial Workflows | Billing, payments, reconciliation, financial records, audit trails |
 
 ---
 
 ## Featured Projects
 
-### 🏥 [Afya HMS](https://github.com/harrisonmuhoro/afyahms)
+### [Afya HMS](https://github.com/harrisonmuhoro/afyahms)
 
 A multi-branch **Hospital Management System** designed to unify clinical, administrative, and financial workflows.
 
@@ -74,7 +74,7 @@ A multi-branch **Hospital Management System** designed to unify clinical, admini
 
 ---
 
-### 🏨 [Taara HMS](https://github.com/harrisonmuhoro/Taara-HMS)
+### [Taara HMS](https://github.com/harrisonmuhoro/Taara-HMS)
 
 An enterprise-oriented **Hotel Management System** covering hotel operations, restaurant POS, finance, inventory, and mobile payments.
 
@@ -94,7 +94,7 @@ An enterprise-oriented **Hotel Management System** covering hotel operations, re
 
 ---
 
-### 🎓 [InduTrack KE](https://github.com/harrisonmuhoro/InduTrack-Ke)
+### [InduTrack KE](https://github.com/harrisonmuhoro/InduTrack-Ke)
 
 A digital industrial attachment management platform designed around the Kenyan education ecosystem.
 
@@ -115,7 +115,7 @@ The system digitizes the attachment lifecycle from **student applications and co
 
 ---
 
-### 🐖 [Scott Pigs Farm](https://github.com/harrisonmuhoro/scott-pigs-farm)
+### [Scott Pigs Farm](https://github.com/harrisonmuhoro/scott-pigs-farm)
 
 A business website and management platform for a pig farming and pork business in Kenya, combining product presentation with business operations and financial visibility.
 
@@ -123,7 +123,7 @@ A business website and management platform for a pig farming and pork business i
 
 ---
 
-### 📋 [TuaVois](https://github.com/harrisonmuhoro/Tuavois)
+### [TuaVois](https://github.com/harrisonmuhoro/Tuavois)
 
 A platform project focused on structured workflows, administration, role separation, and controlled system management.
 
@@ -206,13 +206,15 @@ I'm continuing to strengthen my engineering skills around:
 <div align="center">
 
 <a href="https://github.com/harrisonmuhoro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harrisonmuhoro&show_icons=true&hide_border=true&count_private=true" alt="Harrison's GitHub statistics" />
+  <img height="180em" src="./profile/stats.svg" alt="Harrison's GitHub statistics" />
 </a>
 <a href="https://github.com/harrisonmuhoro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonmuhoro&layout=compact&hide_border=true" alt="Harrison's most used languages" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Harrison's most used languages" />
 </a>
 
 </div>
+
+*These cards are generated and committed to this repository by GitHub Actions, so the profile does not depend on the public `github-readme-stats.vercel.app` image service.*
 
 ---
 
