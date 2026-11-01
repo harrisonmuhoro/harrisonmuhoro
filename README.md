@@ -190,6 +190,22 @@ A polished interface is useful, but the real value comes from improving the proc
 
 ---
 
+## GitHub at a Glance
+
+<div align="center">
+
+<a href="https://github.com/harrisonmuhoro">
+  <img src="https://github-stats-extended.vercel.app/api?username=harrisonmuhoro&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" alt="Harrison Muhoro's GitHub statistics" />
+</a>
+
+</div>
+
+<p align="center">
+  <i>Live GitHub statistics including contributions, commits, pull requests, issues, streaks, and most-used languages.</i>
+</p>
+
+---
+
 ## Currently Exploring
 
 I'm continuing to strengthen my engineering skills around:
@@ -203,23 +219,6 @@ I'm continuing to strengthen my engineering skills around:
 - Scalable database design
 - Background jobs and asynchronous processing
 - Testing and quality assurance
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/harrisonmuhoro">
-  <img height="180em" src="./profile/stats.svg" alt="Harrison's GitHub statistics" />
-</a>
-<a href="https://github.com/harrisonmuhoro">
-  <img height="180em" src="./profile/top-langs.svg" alt="Harrison's most used languages" />
-</a>
-
-</div>
-
-*These cards are generated and committed to this repository by GitHub Actions, so the profile does not depend on the public `github-readme-stats.vercel.app` image service.*
 
 ---
 
