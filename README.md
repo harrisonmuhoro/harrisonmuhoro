@@ -195,13 +195,20 @@ A polished interface is useful, but the real value comes from improving the proc
 <div align="center">
 
 <a href="https://github.com/harrisonmuhoro">
-  <img src="https://github-stats-extended.vercel.app/api?username=harrisonmuhoro&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" alt="Harrison Muhoro's GitHub statistics" />
+  <img src="https://streak-stats.demolab.com/?user=harrisonmuhoro&theme=dark&hide_border=true&border_radius=0&background=0D1117&ring=007BFF&fire=007BFF&currStreakNum=007BFF&sideNums=007BFF&currStreakLabel=007BFF&sideLabels=2F81F7&dates=58A6FF" alt="Harrison Muhoro's GitHub contribution streak" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/harrisonmuhoro">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonmuhoro&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=007BFF&text_color=58A6FF" alt="Harrison Muhoro's most used programming languages" />
 </a>
 
 </div>
 
 <p align="center">
-  <i>Live GitHub statistics including contributions, commits, pull requests, issues, streaks, and most-used languages.</i>
+  <i>Live statistics for contributions, current streak, longest streak, and most-used programming languages.</i>
 </p>
 
 ---
