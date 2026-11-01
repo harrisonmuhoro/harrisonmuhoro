@@ -203,8 +203,12 @@ A polished interface is useful, but the real value comes from improving the proc
 
 <p align="center">
   <a href="https://github.com/harrisonmuhoro">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harrisonmuhoro&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used programming languages on Harrison Muhoro's GitHub repositories" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harrisonmuhoro&layout=compact&theme=transparent&hide_border=true&langs_count=9&hide=Hack" alt="Most used programming languages on Harrison Muhoro's GitHub repositories" />
   </a>
+</p>
+
+<p align="center">
+  <strong>Core Frameworks:</strong> React · Laravel
 </p>
 
 ---
