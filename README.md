@@ -4,7 +4,7 @@
 
 ### Software Developer & Technology Consultant
 
-**Full-Stack Development · Enterprise Software · IT Support & Networking**  
+**Full-Stack Development · Enterprise Software Development · IT Support & Networking**  
 Nyeri, Kenya
 
 I build practical, secure, and maintainable software that improves real-world business and operational workflows. I also help individuals and businesses solve computer, networking, and technical support problems.
@@ -22,7 +22,7 @@ I build practical, secure, and maintainable software that improves real-world bu
 
 I'm a **Software Developer & Technology Consultant based in Nyeri, Kenya**. I focus on building full-stack applications and enterprise-oriented systems that turn manual, fragmented processes into structured, secure, and maintainable digital workflows.
 
-My work covers backend development, frontend interfaces, database design, API development, authentication and authorization, role-based access control (RBAC), and business process automation. I also have **2 years of practical experience in networking and IT support**, including network setup, troubleshooting, Windows support, and computer maintenance.
+My work covers backend development, frontend interfaces, database design, API development, authentication and authorization, role-based access control (RBAC), and business process automation. I have **two years of combined practical experience** across software development and IT support & networking — including network setup, troubleshooting, Windows support, and computer maintenance. Technology consulting is offered alongside implementation and technical services.
 
 
 > Software should not only work in a demo. It should work when people depend on it.
