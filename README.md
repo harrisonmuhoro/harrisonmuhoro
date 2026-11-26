@@ -319,7 +319,7 @@ I am continuing to strengthen my capabilities in:
 
 ---
 
-## Let's Connect | Tuungane
+## Let's Connect
 
 I'm open to opportunities and professional conversations involving software development, enterprise systems, technology consulting, networking, and IT support.
 
