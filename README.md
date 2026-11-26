@@ -18,13 +18,12 @@ I build practical, secure, and maintainable software that improves real-world bu
 
 ---
 
-## About Me | Kuhusu Mimi
+## About Me
 
-I'm a **Software Developer & Technology Consultant based in Nyeri, Kenya**, with **3 years of software development experience**. I focus on building full-stack applications and enterprise-oriented systems that turn manual, fragmented processes into structured, secure, and maintainable digital workflows.
+I'm a **Software Developer & Technology Consultant based in Nyeri, Kenya**. I focus on building full-stack applications and enterprise-oriented systems that turn manual, fragmented processes into structured, secure, and maintainable digital workflows.
 
 My work covers backend development, frontend interfaces, database design, API development, authentication and authorization, role-based access control (RBAC), and business process automation. I also have **2 years of practical experience in networking and IT support**, including network setup, troubleshooting, Windows support, and computer maintenance.
 
-**Kwa Kiswahili:** Mimi ni Msanidi wa Programu na Mshauri wa Teknolojia kutoka Nyeri, Kenya, mwenye uzoefu wa miaka 3 katika utengenezaji wa programu. Ninajenga mifumo ya kidijitali inayosaidia biashara na taasisi kurahisisha shughuli zao, kulinda taarifa, na kuboresha utendaji. Pia nina uzoefu wa miaka 2 katika huduma za TEHAMA, mitandao ya kompyuta, na utatuzi wa matatizo ya vifaa na programu.
 
 > Software should not only work in a demo. It should work when people depend on it.
 
