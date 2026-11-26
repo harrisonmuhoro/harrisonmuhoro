@@ -166,6 +166,17 @@ My professional portfolio presenting software development, enterprise project wo
 
 ---
 
+## Engineering Contributions
+
+A snapshot of the engineering work and problem areas represented across my projects:
+
+- **Afya HMS:** Modular healthcare workflows, clinical operations, role-based access, and multi-branch system design.
+- **Taara HMS:** Hotel operations, reservation and front-desk workflows, financial processes, and permission controls.
+- **InduTrack KE:** Student placement lifecycle, digital logbooks, supervisor evaluations, and institutional reporting.
+- **Vuka Attachment Portal:** Applicant workflows, departmental approvals, role separation, and security regression checks.
+- **Loan Management System:** Legacy debt migration, financial reconciliation, controlled approvals, and auditability.
+- **LifePilot Mobile:** Android-first application foundation, local SQLite persistence, and offline-sync foundations.
+
 ## Technology Stack
 
 The technologies below reflect the tools represented in my existing profile and project work. Project-specific stacks are identified in their descriptions above.
@@ -247,6 +258,18 @@ No additional certifications are listed at this time.
 - **Solve the workflow, not just the interface:** Focus on the operational problem behind the screen.
 
 ---
+
+## Testing & Code Quality
+
+I use automated checks and focused tests in selected repositories to help catch regressions and maintain code quality.
+
+- **Vuka:** GitHub Actions runs PHP and JavaScript syntax checks, authorization/security regression tests, and MySQL migration tests.
+- **InduTrack KE:** GitHub Actions is configured for backend tests, frontend linting and tests, and frontend builds.
+- **LifePilot Mobile:** GitHub Actions checks TypeScript, ESLint, formatting, and Jest tests.
+- **Personal Portfolio:** GitHub Actions runs PHP syntax checks and the repository test script.
+- **Taara HMS:** Includes feature tests for permission escalation and notification access, alongside a unit-test structure.
+
+These checks are configured in the repositories; their presence does not imply that every latest run is passing. Other projects have their own test and validation work, which I continue to expand.
 
 ## GitHub at a Glance
 
