@@ -2,9 +2,9 @@
 
 # Harrison Muhoro
 
-### Software Engineer · Backend & Full-Stack Development · Kenya
+### Full-Stack Developer · Network Administration · IT Support · Kenya
 
-I build **reliable software for real-world operations** — from healthcare and hospitality systems to education and business platforms.
+I build **reliable software for real-world operations** and help individuals and businesses keep their computers and networks working. My work spans full-stack application development, network configuration, and practical IT troubleshooting.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harrisonmuhoro.me-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.harrisonmuhoro.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-harrisonmuhoro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harrisonmuhoro)
@@ -20,7 +20,7 @@ I'm a software engineer based in **Kenya**, focused on building practical system
 
 I enjoy taking a process that is manual, fragmented, or difficult to manage and turning it into a **structured, secure, maintainable digital system**.
 
-My work spans backend engineering, full-stack application development, database design, API development, authentication, authorization, business workflows, and responsive user interfaces.
+My work spans backend engineering, full-stack application development, database design, API development, authentication, authorization, business workflows, and responsive user interfaces. I also have **2 years of practical experience** in network setup and troubleshooting, Windows and computer maintenance, hardware and software diagnostics, and end-user technical support.
 
 > **Software should not only work in a demo. It should work when people depend on it.**
 
@@ -50,6 +50,49 @@ I am particularly interested in **business and enterprise-oriented software** wh
 | Education | Student workflows, industrial attachment, digital logbooks, evaluations |
 | Business Systems | POS, administration, workflow automation, reporting, dashboards |
 | Financial Workflows | Billing, payments, reconciliation, financial records, audit trails |
+| Networking & IT Support | LAN/WAN setup, wired and wireless networks, Wi-Fi, Ethernet cabling, connectivity troubleshooting, computer maintenance |
+
+---
+
+## Networking & Network Configuration
+
+Alongside software development, I provide practical networking setup and troubleshooting services for individuals and businesses. I have **2 years of experience** working with wired and wireless network environments.
+
+**Areas of experience:**
+- Local Area Network (LAN) and Wide Area Network (WAN) setup and troubleshooting
+- Wired and wireless network configuration
+- Wi-Fi setup, connectivity diagnosis, and troubleshooting
+- Ethernet cabling and basic network installation
+- Internet connectivity troubleshooting
+- Network and printer sharing
+- Basic network diagnostics and connectivity testing
+
+## Computer Troubleshooting & IT Support
+
+I diagnose and resolve common computer, operating system, hardware, and software problems, helping users keep their devices reliable and usable.
+
+**Areas of experience:**
+- Windows installation, configuration, and setup
+- Operating system errors, startup, and boot troubleshooting
+- Software installation, configuration, and troubleshooting
+- Hardware diagnosis and replacement
+- RAM, HDD, and SSD troubleshooting
+- Driver installation and compatibility issues
+- Virus and malware removal
+- Computer performance optimization and general maintenance
+- Data backup and recovery
+- User account and permissions troubleshooting
+- Printer and peripheral troubleshooting
+
+## Technical Support Tools
+
+Tools I use for network diagnostics, configuration, and computer support:
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+**Command-line diagnostics:** `ipconfig` · `ping` · `tracert` · `netstat`
 
 ---
 
@@ -166,6 +209,14 @@ A platform project focused on structured workflows, administration, role separat
 
 ---
 
+## IT & Networking Services
+
+I offer networking and computer troubleshooting services to individuals and businesses, including network setup, Wi-Fi and connectivity support, Windows installation, computer maintenance, and hardware/software diagnostics.
+
+My approach is practical: identify the underlying problem, explain the available solution, and verify that the device or network is working as expected.
+
+---
+
 ## Engineering Principles
 
 ### Build for the real world
@@ -244,7 +295,7 @@ I'm continuing to strengthen my engineering skills around:
 
 ## Let's Connect
 
-If you're interested in **software engineering, backend development, full-stack development, system design, or building software around real business workflows**, feel free to connect.
+If you're interested in **full-stack software development, backend systems, network configuration, computer troubleshooting, or practical IT support for your business or personal devices**, feel free to connect.
 
 **Portfolio:** [harrisonmuhoro.me](https://www.harrisonmuhoro.me/)
 
@@ -258,6 +309,6 @@ If you're interested in **software engineering, backend development, full-stack 
 
 ### Building software that survives beyond the demo.
 
-**Harrison Muhoro · Software Engineer · Kenya**
+**Harrison Muhoro · Full-Stack Developer · Network Administration · IT Support · Kenya**
 
 </div>
