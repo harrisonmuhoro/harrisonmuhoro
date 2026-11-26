@@ -11,7 +11,7 @@ I build practical, secure, and maintainable software that improves real-world bu
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harrisonmuhoro.me-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.harrisonmuhoro.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-harrisonmuhoro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harrisonmuhoro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harrison_Muhoro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-muhoro-6476b33a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harrison_Muhoro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-muhoro/)
 [![Email](https://img.shields.io/badge/Email-zionmuhoro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zionmuhoro@gmail.com)
 
 </div>
@@ -325,7 +325,7 @@ I'm open to opportunities and professional conversations involving software deve
 
 - **Portfolio:** [harrisonmuhoro.me](https://www.harrisonmuhoro.me/)
 - **GitHub:** [github.com/harrisonmuhoro](https://github.com/harrisonmuhoro)
-- **LinkedIn:** [Harrison Muhoro](https://www.linkedin.com/in/harrison-muhoro-6476b33a8/)
+- **LinkedIn:** [Harrison Muhoro](https://www.linkedin.com/in/harrison-muhoro/)
 - **Email:** [zionmuhoro@gmail.com](mailto:zionmuhoro@gmail.com)
 
 <div align="center">
