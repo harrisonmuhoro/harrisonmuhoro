@@ -275,7 +275,7 @@ These checks are configured in the repositories; their presence does not imply t
 
 <p align="center">
   <a href="https://github.com/harrisonmuhoro">
-    <img src="https://github-stats-extended.vercel.app/api?username=harrisonmuhoro&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&rank_icon=github" alt="Harrison Muhoro's GitHub statistics" />
+    <img src="./profile/stats.svg" alt="Harrison Muhoro's GitHub statistics and dynamic performance grade" />
   </a>
   <a href="https://streak-stats.demolab.com/?user=harrisonmuhoro&theme=transparent&hide_border=true">
     <img src="https://streak-stats.demolab.com/?user=harrisonmuhoro&theme=transparent&hide_border=true" alt="Harrison Muhoro's GitHub contribution streak" />
